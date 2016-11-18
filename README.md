@@ -11,5 +11,5 @@ gmaps https://hpneo.github.io/gmaps/
 Bxslider http://bxslider.com/  
 
 Animations powered by wow.js animation.css  
-https://daneden.github.io/animate.css/
+https://daneden.github.io/animate.css/  
 http://mynameismatthieu.com/WOW/docs.html
