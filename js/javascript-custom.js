@@ -189,7 +189,7 @@ $(document).ready(function () {
         title: 'yonge Kleen Tech',
         infoWindow: {
             content: '<h4>Yonge Kleen Tech</h4><p>Hand Car Wash</p>' +
-            '<p>5255 Yonge Street,<br/>Parking Level P4,<br/>Level P4<br/>Toronto, ON<br/>M2N 5P8</p>'
+            '<p>5255 Yonge Street,<br/>Parking Level P4,<br/>Level P4<br/>Toronto, ON<br/>M2N 6P4</p>'
         }
     });
 });
