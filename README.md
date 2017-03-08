@@ -2,7 +2,7 @@
 Responsive and modern looking website built with HTML5, CSS3, jquery, jQuery plugins, and Bootstrap framework
 
 # View the Website
-[Link](http://64.137.185.194)
+[Link](https://www.yongekleentech.com)
 
 # Frameworks used
 - [Bootstrap v3.37](http://getbootstrap.com)
